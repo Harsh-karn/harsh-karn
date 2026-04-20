@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://res.cloudinary.com/dzaulqmge/image/upload/WhatsApp_Image_2025-06-17_at_00.52.58_c3e6b759_lq9rio.jpg" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🌱 I’m currently learning advanced backend development (Node.js, system design) and improving my data analytics skills with Python.
