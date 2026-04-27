@@ -108,7 +108,7 @@
 </p>
 
 ## 💬 Quote
-> If it works, don't touch it. If it breaks, blame version control.
+> If it works, don't touch it. If it breaks, blame version control..
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
